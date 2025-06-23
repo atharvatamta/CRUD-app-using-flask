@@ -46,4 +46,33 @@ Each backup entry includes:
 ---
 
 ## 📁 Project Structure
+ongc_register/
+├── app.py # Main Flask application
+├── database.db # SQLite database file
+├── templates/ # HTML templates
+│ ├── base.html
+│ ├── login.html
+│ ├── admin_dashboard.html
+│ └── user_dashboard.html
+├── static/ # Static assets (CSS, JS)
+│ └── style.css
+└── README.md # This file
+
+---
+
+## ⚙️ Setup Instructions
+**Clone the repository**
+   ```bash
+   git clone https://github.com/yourusername/ongc-register.git
+   cd ongc-register
+
+Let me know if you’d like:
+- A version with your name and GitHub handle
+- Auto-generated `requirements.txt`
+- A GitHub repository template setup
+Create virtual environment and activate
+
+
+
+
 
