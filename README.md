@@ -1,6 +1,5 @@
-# 🗂️ ONGC Digital Backup Register System
-
-This project digitizes ONGC's current physical register system used to log data backups. It provides a web-based interface for secure login, role-based access, and management of backup records — streamlining the process of tracking backup activities, eliminating the need for manual registers.
+# 🗂️ CRUD APP WITH USER LOGIN FUNCTIONALITY
+It provides a web-based interface for secure login, role-based access, and management of backup records — streamlining the process of tracking backup activities, eliminating the need for manual registers.
 
 ---
 
@@ -30,7 +29,7 @@ Each backup entry includes:
 - 🙍 **Username**
 - 🏢 **Group Name**
 - 📝 **Details about the Entry**
-- 💽 **Tape Number**
+- 💽 **Number**
 
 ---
 
@@ -59,12 +58,6 @@ ongc_register/
 └── README.md # This file
 
 ---
-
-## ⚙️ Setup Instructions
-**Clone the repository**
-   ```bash
-   git clone https://github.com/yourusername/ongc-register.git
-   cd ongc-register
 
 
 
