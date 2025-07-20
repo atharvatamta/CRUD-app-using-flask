@@ -1,6 +1,4 @@
-# 🗂️ CRUD APP WITH USER LOGIN FUNCTIONALITY
-It provides a web-based interface for secure login, role-based access, and management of backup records — streamlining the process of tracking backup activities, eliminating the need for manual registers.
-
+# 🗂️ CRUD APP WITH FLASK
 ---
 
 ## 🚀 Features
@@ -10,14 +8,6 @@ It provides a web-based interface for secure login, role-based access, and manag
 - Passwords hashed using bcrypt
 - Session-based login using Flask-Login
 
-### 🧑‍💼 Admin Functionality
-- Add new backup entries
-- Delete existing entries
-- Search/filter records by date, username, group name, details, or tape number
-
-### 👥 User Functionality
-- View all backup entries
-- Search/filter entries (read-only access)
 
 ---
 
@@ -27,7 +17,6 @@ Each backup entry includes:
 
 - 📅 **Date of Entry**
 - 🙍 **Username**
-- 🏢 **Group Name**
 - 📝 **Details about the Entry**
 - 💽 **Number**
 
